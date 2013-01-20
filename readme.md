@@ -1,0 +1,1 @@
+Аналог проекта package_extractor, только на ruby
