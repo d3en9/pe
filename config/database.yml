@@ -1,0 +1,4 @@
+adapter: "postgresql"
+username: "postgres"
+password: "12345"
+database: "test"
